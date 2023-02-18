@@ -1,2 +1,2 @@
 # TestProjectSeleniuem
- Dummy testing using seleniuem
+ Dummy testing using C# & seleniuem
